@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Assignment of week 2</title>
+    <link rel="stylesheet" href="design.css">
+</head>
+
+<body>
+    <h1>FEATURED MOBILE PHONES</h1>
+    <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="lebesgue">
+                <h2>Samsung Galaxy Note 10</h2>
+                <p>
+                  Release date: August 2019 | Weight: 168g | Dimensions: 151 x 71.8 x 7.9mm | OS: Android 9.0 | Screen size: 6.3-inch |                   Resolution: 1080×2280 | CPU: Exynos 9825 | RAM: 8GB | Storage: 256GB | Battery: 3,500mAh | Rear camera: 12MP + 12MP +                   12MP | Front camera: 10MP
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="fubini">
+                <h2 Samsung Galaxy S10 Plus</h2>
+                <p>
+                   Release date: March 2019 | Weight: 175g | Dimensions: 157.6 x 74.1 x 7.8mm | OS: Android 9 | Screen size: 6.4-inch |                    Resolution: 1440 x 3040 | CPU: Snapdragon 855 / Exynos 9820 | RAM: 8/12GB | Storage: 128/512GB/1TB | Battery:                            4,100mAh | Rear camera: 12MP + 12MP + 16MP | Front camera: 10MP + 8MP
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-12 col-sm-12">
+            <section class="luzin">
+                <h2>ONEPLUS 8 PRO</h2>
+                <p>
+                   Weight: 199gDimensions: 165.3 x 74.4 x 8.5 mmOS: OxygenOS 10.5 / Android 10Screen size: 6.78 inchesResolution: 1440 x                    3168CPU: Qualcomm Snapdragon 865RAM: 8GB / 12GBStorage: 256GBBattery: 4510mAhRear camera: 48MP + 48MP + 8MP +                            5MPFront camera: 16MP
+                </p>
+            </section>
+        </div>
+    </div>
+</body>
+
+</html>
