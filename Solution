@@ -1,50 +1,49 @@
 //date 4 May 2020
 
-<!DOCTYPE html>
-<html lang="en">
 
+<html>
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Module-2(Created by Aryan SIngh)</title>
-    <link rel="stylesheet" href="design.css">
+	<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+	<link rel="stylesheet" type="text/css" href="s.css">
+	<title>Module 2 Solution</title>
 </head>
-
 <body>
-    <h1>ELECTRONIC GADGETS</h1>
-    <div class="row">
-        <div class="col-lg-4 col-md-6 col-sm-12">
-            <section class="lebesgue">
-                <h2>iPhone</h2>
-                <p>
-                  The major areas of functionality for the iPhone are: Phone: The iPhone's phone features are solid. 
-                  It includes innovative features like Visual Voicemail and standard features like
-                  text messaging, voice dialing, and free conference calls. Web browser:
-                  The iPhone offers the best, most complete mobile browsing experience.
-            </section>
-        </div>
-        <div class="col-lg-4 col-md-6 col-sm-12">
-            <section class="fubini">
-                <h2>Mobile Phone</h2>
-                <p>
-                    A mobile phone (also known as a hand phone, cell phone, or cellular telephone)is a
-                    small portable radio telephone. The mobile phone can be used tocommunicate over
-                    long distances without wires. It works by communicatingwith a nearby base station
-                    (also called a "cell site") which connects it to the main phone network.
-                </p>
-            </section>
-        </div>
-        <div class="col-lg-4 col-md-12 col-sm-12">
-            <section class="luzin">
-                <h2>Smartphone</h2>
-                <p>
-                    A smartphone is a cellular telephone with an integrated computer and 
-                    other features not originally associated with telephones such as an
-                    operating system, web browsing, and the ability to run software applications 
-                </p>
-            </section>
-        </div>
-    </div>
+	<h1>Our Menu</h1>
+	<div class="row">
+	<div class="container col-lg-4 col-md-6 col-sm-12">
+		<section>
+		<div id="chicken">
+			chicken 
+		</div>
+		<p>
+			Among the many reasons that make Indian food a popular cuisine across the globe, one is the use of aromatic spices that make the meal an absolute treat. Yes, it could also be hot and spicy for some, but if you can get past that then you will find it hard to resist the various kinds of curries and stir-fries that grace the Indian table. Indian cooking offers a beautiful melange of herbs and spices, and if your favourite meat is chicken, then there are many lip-smacking options for you to go all out and indulge from a host of chicken dishes like the classic butter chicken to 
+		</p>
+		</section>
+	</div>
+	<div class="container col-lg-4 col-md-6 col-sm-12">
+		<section>
+		<div id="beef">
+			Beef
+		</div>
+		<p>
+			Among the many reasons that make Indian food a popular cuisine across the globe, one is the use of aromatic spices that make the meal an absolute treat. Yes, it could also be hot and spicy for some, but if you can get past that then you will find it hard to resist the various kinds of curries and stir-fries that grace the Indian table. Indian cooking offers a beautiful melange of herbs and spices, and if your favourite meat is chicken, then there are many lip-smacking options for you to go all out and indulge from a host of chicken dishes like the classic butter chicken to regional ones like chicken chettinad or chicken 65. 
+		</p>
+		</section>
+	</div>
+	<div class="container col-lg-4 col-md-12 col-sm-12">
+		<section>
+		<div id="sushi">
+			Sushi
+		</div>
+		<p>
+			Among the many reasons that make Indian food a popular cuisine across the globe, one is the use of aromatic spices that make the meal an absolute treat. Yes, it could also be hot and spicy for some, but if you can get past that then you will find it hard to resist the various kinds of curries and stir-fries that grace the Indian table. Indian cooking offers a beautiful melange of herbs and spices, and if your favourite meat is chicken, then there are many lip-smacking options for you to go all out and indulge from a host of chicken dishes like the classic butter chicken to regional ones like chicken chettinad or chicken 65. 
+		</p>
+		</section>
+	</div>
+	</div>
 </body>
-
 </html>
